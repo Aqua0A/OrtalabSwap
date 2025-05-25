@@ -1,0 +1,13 @@
+{
+	"id": "PlanetZ",
+	"name": "ZodiacPlanets",
+	"display_name": "Zodiac Planets",
+	"author": ["Aqua0"],
+	"description": "A small tweak to the planet textures that make them very colorful, like the Ortalab Zodiacs!
+",
+	"prefix": "zodiacplanets",
+	"main_file": "PlanetZ.lua",
+	"version": "1.0.0",
+	"dependencies": ["malverk (1.*)"
+    ]
+}
