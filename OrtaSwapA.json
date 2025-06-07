@@ -1,0 +1,13 @@
+{
+	"id": "ortaswapa",
+	"name": "OrtaSwap vA",
+	"display_name": "OrtaSwap vA",
+	"author": ["Aqua0"],
+	"description": "What would happen if Balatro and Ortalab were mixed together into some amalgamation, or something? Some assets are from the mods Familiar, Ortalab, SpecTrans (code) and Balatro HD (code).
+",
+	"prefix": "ortaswapa",
+	"main_file": "OrtaSwapA.lua",
+	"version": "1.5.0",
+	"dependencies": ["malverk (1.*)"
+    ]
+}
